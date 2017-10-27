@@ -1,4 +1,3 @@
-https://www.mrpapercut.com/detail/34_keyframe_animations_in_sass
 
 http://www.hongkiat.com/blog/mixin-library-for-sass/
 
