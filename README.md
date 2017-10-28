@@ -4,4 +4,5 @@
 
 ### SASS viðmótsforritun
 [What’s the Difference Between Sass and SCSS?](https://www.sitepoint.com/whats-difference-sass-scss/)
+
 [SASS vefsíður](sass-tenglar.md)
