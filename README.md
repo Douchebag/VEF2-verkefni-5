@@ -1,4 +1,4 @@
-# VEF2-verkefni-5
+# VEF2 verkefni 5
 
 [Dæmi um vefsíðu á GitHub](https://vefhonnun.github.io/VEF2-verkefni-5/)
 
