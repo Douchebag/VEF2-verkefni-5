@@ -1,6 +1,6 @@
 ### Bjargir
 *	Uppsetning: 
-	* [SASS for beginners](https://medium.com/@ricardozea/sass-for-beginners-the-friendliest-guide-about-how-to-install-use-sass-on-windows-22ff4a32c1f7#.rrxvb8z7f)
+	* [SCSS for beginners](https://medium.com/@ricardozea/sass-for-beginners-the-friendliest-guide-about-how-to-install-use-sass-on-windows-22ff4a32c1f7#.rrxvb8z7f)
 * 	SCSS viðmótsforritun: 
 	*	http://sass-lang.com/
 	*	http://thesassway.com/
