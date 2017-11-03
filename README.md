@@ -1,6 +1,6 @@
-# VEF2 verkefni 5
+#### VEF2 verkefni 5
 
-## SCSS viðmótsforritun
+# SCSS viðmótsforritun
 
 * **Uppsetning á SCSS vinnuumhverfi**
 	*	CMD vöktun á SCSS skrám og færsla yfir í CSS skrár.
