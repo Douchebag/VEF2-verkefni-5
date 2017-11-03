@@ -16,7 +16,7 @@
 	*	Vefsíðan á að vera í **„docs“** möppu á geymslunni þinni og hún á að vera virk á GitHub.io
 	*	[Dæmi um vefsíðu á GitHub](https://vefhonnun.github.io/VEF2-verkefni-5/)
 	*	[Lesefni hér](lesefni/) og [skoða gögn í "docs" möppunni](docs/)
-	*	Notið CSS grid fyrir uppbyggingu (layout) vefsíðunnar. 
+	*	Notið CSS grid fyrir uppbyggingu (layout) vefsíðunnar. [Einfalt CSS Grid](https://github.com/vefhonnun/CSS-grid)
 
 ### Námsmat 
 *	**5%  SCSS æfingar.**  
