@@ -38,12 +38,5 @@
 *	Æfingaverkefnið er í möppu á github reikningnum ásamt vinnugögnum
 *	Tengli á GitHub reikningin er skilað í INNU.
 
-### Bjargir
-*	Uppsetning:  https://medium.com/@ricardozea/sass-for-beginners-the-friendliest-guide-about-how-to-install-use-sass-on-windows-22ff4a32c1f7#.40mi1nc2j
-*	SCSS viðmótsforritun: http://sass-lang.com/
-*	SCSS dæmi: http://thesassway.com/
-*	SPA - Single Page Application
-o	http://www.awwwards.com/websites/single-page/
-o	https://onepagelove.com/ 
-*	Command Line Interface: https://en.wikipedia.org/wiki/Command-line_interface
+
 
