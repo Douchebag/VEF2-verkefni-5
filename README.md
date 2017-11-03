@@ -31,5 +31,6 @@
 *	Æfingaverkefnið er í möppu á github reikningnum ásamt vinnugögnum
 *	Tengli á GitHub reikningin er skilað í INNU.
 
+#### Bjargir
 [SCSS vefsíður](sass-tenglar.md)
 
