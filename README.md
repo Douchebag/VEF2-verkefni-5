@@ -22,8 +22,8 @@
 *	**5%  SCSS æfingar.**  
 	* Breytur, föll, nesting og mixins eru sett í SCSS síðu og keyrt (compiled) í CSS síðu.
 *	**5%  Vefsíða** 
-	* hún er unnin með SCSS stílum, notaðu breytur, föll, nesting og mixins og keyrðu saman þína stílsíðu og normalize.scss (@import). 
-	* Útkoman á að vera 1 CSS síða sem er í þjöppuðu fomi ( --style compressed ). 
+	* SCSS stílsíða, notaðu breytur, föll, nesting og mixins og keyrðu saman þína stílsíðu og normalize.scss (@import). 
+	* Útkoman á að vera 1 CSS síða sem er í þjöppuðu fomi ( --style compressed ) sem er tengd vefsíðunni.
 
 ### Verkefnaskil 
 *	Æfingaverkefni eru í möppu á github reikningi þínum ásamt vinnugögnum
