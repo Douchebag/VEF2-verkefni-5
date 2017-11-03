@@ -1,30 +1,28 @@
 # VEF2 verkefni 5
 
-[Dæmi um vefsíðu á GitHub](https://vefhonnun.github.io/VEF2-verkefni-5/)
+## SASS viðmótsforritun
 
-### SASS viðmótsforritun
 [What’s the Difference Between Sass and SCSS?](https://www.sitepoint.com/whats-difference-sass-scss/)
 
 [SASS vefsíður](sass-tenglar.md)
 
-##SCSS viðmótsforritun 
-
 * **Uppsetning á SASS vinnuumhverfi**
-	a.	CMD vöktun á SCSS skrám og færsla yfir í CSS skrár.
+	*	CMD vöktun á SCSS skrám og færsla yfir í CSS skrár.
 		Til að geta unnið með SCSS skrá þarf fyrst að setja Ruby forritið á tölvuna þina (PC) http://rubyinstaller.org/   Ath. Ruby er á tölvum skólans.
 		Notaðu „Command line“ (CMD) og settu upp SASS vinnunumhverfi á tölvuna sem þú ert að vinna á þannig að þú getur unnið í SCSS viðmótsforritun á heimasvæði þínu (H:).  
 
 *	**SASS æfingar**  
-	a.	[Æfingaverkefni, sjá verklýsingu hér](scss-aefingar.md)
-	b.  [Fyrirlestrar sem fylgja verkefnadæmunum](http://tskoli.org/vef2/) 
+	*	[Æfingaverkefni, sjá verklýsingu hér](scss-aefingar.md)
+	*	[Fyrirlestrar sem fylgja verkefnadæmunum](http://tskoli.org/vef2/) 
 
 *	**Single Page Application (SPA)** 
-	a.	Ein vefsíða hönnuð fyrir mismunandi skjái ss. síma og spjaldtölvur (RWD). 
-	b.	Vefsíðan á að vera stíluð í SCSS sem er yfirfærð í þjappað CSS format 
-	c.  Vefsíðan er í „docs“ möppu á geymslunni þinni og hún á að vera virk á GitHub.io
+	*	Ein vefsíða hönnuð fyrir mismunandi skjái ss. síma og spjaldtölvur (RWD). 
+	*	Vefsíðan á að vera stíluð í SCSS sem er yfirfærð í þjappað CSS format 
+	*	Vefsíðan er í „docs“ möppu á geymslunni þinni og hún á að vera virk á GitHub.io
+	*	[Dæmi um vefsíðu á GitHub](https://vefhonnun.github.io/VEF2-verkefni-5/)
 ( þinnreikningur.GitHub.io/verkefni-5/ + tengill í Readme.md )
-	d.	Notið CSS grid fyrir uppbyggingu (layout) vefsíðunnar. 
-	e.	Notaðu efnisyfirlit með innri tenglum (#ID - internal links) til að fara á milli kafla í síðunni
+	*	Notið CSS grid fyrir uppbyggingu (layout) vefsíðunnar. 
+	*	Notaðu efnisyfirlit með innri tenglum (#ID - internal links) til að fara á milli kafla í síðunni
 
 
 ### Námsmat 
