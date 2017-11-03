@@ -26,9 +26,8 @@
 	* Útkoman á að vera 1 CSS síða sem er í þjöppuðu fomi ( --style compressed ). 
 
 ### Verkefnaskil 
+*	Æfingaverkefni eru í möppu á github reikningi þínum ásamt vinnugögnum
 *	Vefsíðan er í „docs“ möppu á geymslunni þinni og hún á að vera virk á GitHub.io
-( þinnreikningur.GitHub.io/verkefni-5/ + tengill í Readme.md )
-*	Æfingaverkefnið er í möppu á github reikningnum ásamt vinnugögnum
 *	Tengli á GitHub reikningin er skilað í INNU.
 
 #### Bjargir
