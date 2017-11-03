@@ -1,7 +1,7 @@
 # SCSS æfingarverkefni 
 
 ### námsefni: Skjáfyrirlestrar Joe Marini og verkefnadæmi
-*	Vefsíða: tskoli.org/vef2b/
+*	[Fyrirlestrar sem fylgja verkefnadæmunum](http://tskoli.org/vef2b/) 
 *	vefaðgangur sendur í pósti
 
 **Ekkert er gefið fyrir að afrita dæmin frá Joe Marini og skila óbreytt**

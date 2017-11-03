@@ -9,8 +9,7 @@
 		Notaðu „Command line“ (CMD) og settu upp SASS vinnunumhverfi á tölvuna sem þú ert að vinna á þannig að þú getur unnið í SCSS viðmótsforritun á heimasvæði þínu (H:).  
 
 *	**SCSS æfingar**  
-	*	[Æfingaverkefni, sjá verklýsingu hér](SCSS-aefingarverkefni.md)
-	*	[Fyrirlestrar sem fylgja verkefnadæmunum](http://tskoli.org/vef2/) 
+	*	[Æfingaverkefni, sjá verklýsingu hér...](SCSS-aefingarverkefni.md)
 
 *	**Single Page Application (SPA)** 
 	*	Ein vefsíða hönnuð fyrir mismunandi skjái ss. síma og spjaldtölvur (RWD). 
