@@ -11,23 +11,23 @@ Ekki nota **ID** í útlitshönnun - td. skiptið út _#mypara_ yfir í **.mypar
 ### Breytur / Variables  (Chapter 4)
 
 1.  Búið til ykkar eigin breytur og setjið eftirfarandi gildi í þær.
-*	Litagildi / Color value
-*	Textastreng / string variable 
-*	Tölugildi / numeric value
-*	Breytu með mismunandi gildi / multi-value variable
-*	setjið breytu í tag 
-*	setjið breytu í klasa
-*	setjið breytu í gerviklasa (pseudo class) 
+	*	Litagildi / Color value
+	*	Textastreng / string variable 
+	*	Tölugildi / numeric value
+	*	Breytu með mismunandi gildi / multi-value variable
+	*	setjið breytu í tag 
+	*	setjið breytu í klasa
+	*	setjið breytu í gerviklasa (pseudo class) 
 
 ### Mixins (Chapter 4)
 
 2.  Hreiðraðir stílar / Nested Styles (Chapter 4)
-*	Setjið stíla á "header" tagið
-*	Setjið síðan hreiðraða stíla (nested styles) á tög innan "header" tagsins  td. h1, nav og a
-*	Aðgerðir / Operations (Chapter 4)
-*	Búið til stíla og notið @mixin og @include í stílunum
-*	Búið til 3 breytur með mismunandi gildum
-*	Setjið breyturnar sem gildi í fjórðu breytunni.
+	*	Setjið stíla á "header" tagið
+	*	Setjið síðan hreiðraða stíla (nested styles) á tög innan "header" tagsins  td. h1, nav og a
+	*	Aðgerðir / Operations (Chapter 4)
+	*	Búið til stíla og notið @mixin og @include í stílunum
+	*	Búið til 3 breytur með mismunandi gildum
+	*	Setjið breyturnar sem gildi í fjórðu breytunni.
 
 ### Föll / Functions (Chapter 5)
 
@@ -39,8 +39,8 @@ Ekki nota **ID** í útlitshönnun - td. skiptið út _#mypara_ yfir í **.mypar
 ### Samsetning skjala / Importing External Files (Chapter 5)
 
 4. Setjið saman normalize.scss [fylgir með verkefnalýsingunni](lesefni/) og æfingarnar sem þú hefur gert í eina CSS stílsíðu
-*	Þjappið CSS stílsíðuna ( --style compressed )
-*	Búið til HTML síðu sem sýnir alla stílana sem eru í CSS síðunni 
+	*	Þjappið CSS stílsíðuna ( --style compressed )
+	*	Búið til HTML síðu sem sýnir alla stílana sem eru í CSS síðunni 
 
 
 ### Skilið öllum vinnugögnum á ykkar í GitHub geymslu
