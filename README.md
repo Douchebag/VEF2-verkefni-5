@@ -15,7 +15,7 @@
 	*	Vefsíðan á að vera stíluð í SCSS sem er yfirfærð í þjappað CSS format 
 	*	Vefsíðan er í „docs“ möppu á geymslunni þinni og hún á að vera virk á GitHub.io
 	*	[Dæmi um vefsíðu á GitHub](https://vefhonnun.github.io/VEF2-verkefni-5/)
-	*	[docs/](skoða gögn í "docs" möppunni")
+	*	[skoða gögn í "docs" möppunni](docs/)
 	*	Notið CSS grid fyrir uppbyggingu (layout) vefsíðunnar. 
 
 ### Námsmat 
