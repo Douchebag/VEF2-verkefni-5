@@ -22,8 +22,7 @@ Ekki nota **ID** í útlitshönnun - td. skiptið út _#mypara_ yfir í **.mypar
 ### Mixins (Chapter 4)
 
 2.  Hreiðraðir stílar / Nested Styles (Chapter 4)
-	*	Setjið stíla á "header" tagið
-	*	Setjið síðan hreiðraða stíla (nested styles) á tög innan "header" tagsins  td. h1, nav og a
+	*	Setjið hreiðraða stíla (nested styles) á tög innan "header" tags  td. h1, nav og a
 	*	Aðgerðir / Operations (Chapter 4)
 	*	Búið til stíla og notið @mixin og @include í stílunum
 	*	Búið til 3 breytur með mismunandi gildum
@@ -42,6 +41,5 @@ Ekki nota **ID** í útlitshönnun - td. skiptið út _#mypara_ yfir í **.mypar
 	*	Þjappið CSS stílsíðuna ( --style compressed )
 	*	Búið til HTML síðu sem sýnir alla stílana sem eru í CSS síðunni 
 
-
-### Skilið öllum vinnugögnum á ykkar í GitHub geymslu
+### Skilið öllum vinnugögnum í ykkar eigin GitHub geymslu
  
