@@ -2,9 +2,6 @@
 
 ## SCSS viðmótsforritun
 
-[What’s the Difference Between Sass and SCSS?](https://www.sitepoint.com/whats-difference-sass-scss/)
-
-[SCSS vefsíður](sass-tenglar.md)
 
 * **Uppsetning á SCSS vinnuumhverfi**
 	*	CMD vöktun á SCSS skrám og færsla yfir í CSS skrár.
@@ -12,7 +9,7 @@
 		Notaðu „Command line“ (CMD) og settu upp SASS vinnunumhverfi á tölvuna sem þú ert að vinna á þannig að þú getur unnið í SCSS viðmótsforritun á heimasvæði þínu (H:).  
 
 *	**SCSS æfingar**  
-	*	[Æfingaverkefni, sjá verklýsingu hér](scss-aefingar.md)
+	*	[Æfingaverkefni, sjá verklýsingu hér](SCSS-aefingarverkefni.md)
 	*	[Fyrirlestrar sem fylgja verkefnadæmunum](http://tskoli.org/vef2/) 
 
 *	**Single Page Application (SPA)** 
@@ -38,5 +35,7 @@
 *	Æfingaverkefnið er í möppu á github reikningnum ásamt vinnugögnum
 *	Tengli á GitHub reikningin er skilað í INNU.
 
+[What’s the Difference Between Sass and SCSS?](https://www.sitepoint.com/whats-difference-sass-scss/)
 
+[SCSS vefsíður](sass-tenglar.md)
 
