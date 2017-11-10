@@ -392,6 +392,93 @@ template {
 [hidden] {
   display: none; }
 
+/* Litir */
+/* GRID AREA */
+body {
+  margin: 0;
+  display: grid;
+  grid-gap: 0;
+  grid-template-areas: "header" "content" "topnav" "footer"; }
+
+.topnav {
+  grid-area: topnav; }
+
+header {
+  grid-area: header; }
+
+footer {
+  grid-area: footer; }
+
+.main {
+  grid-area: content; }
+
+/* ├×├│ a├░ body s├® teki├░ fram  */
+.main {
+  display: grid;
+  grid-gap: 0;
+  grid-template-areas: "vinstri-1" "vinstri-2" "haegri"; }
+
+.vinstri-1 {
+  grid-area: vinstri-1; }
+
+.haegri {
+  grid-area: haegri; }
+
+.vinstri-2 {
+  grid-area: vinstri-2; }
+
+/* VI├ÉMI├É 37.5em = 600px */
+@media screen and (min-width: 37.5em) {
+  .main {
+    grid-template-columns: 30% auto 29.4%;
+    grid-template-areas: "vinstri-1 vinstri-1 haegri" "vinstri-2 vinstri-2 haegri"; }
+
+  body {
+    margin: 0;
+    display: grid;
+    grid-gap: 0;
+    grid-template-areas: "header header header topnav" "content content content content" "footer footer footer footer"; }
+
+  .topmenu a {
+    text-align: left; } }
+/* vi├░mi├░ 60 em = 960px littlir t├Âlvuskj├íir */
+@media screen and (min-width: 60em) {
+  body {
+    max-width: 60em;
+    margin: 0 auto;
+    background: #ffe0a5; }
+
+  .main {
+    grid-template-columns: 30% auto 29.4%; } }
+/* */
 /* A├░alst├¡ls├¡├░a */
+*, *:before, *:after {
+  box-sizing: border-box; }
+
+header {
+  background: #ffbf0f;
+  text-align: center;
+  color: #705d3a; }
+
+footer {
+  background: #7d663f;
+  color: white;
+  text-align: center; }
+
+.topnav {
+  background: #7d663f; }
+
+.vinstri-1, .vinstri-2 {
+  background: #ffeac8; }
+
+.haegri {
+  background: #ffeac8; }
+
+header,
+footer,
+.vinstri-1,
+.vinstri-2,
+.haegri {
+  padding: 1em; }
 
 /*# sourceMappingURL=styles.css.map */

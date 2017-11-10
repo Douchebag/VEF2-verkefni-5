@@ -1,0 +1,87 @@
+/* GRID AREA */
+
+body {
+  margin: 0;
+  display: grid;
+  grid-gap: 0;
+  grid-template-areas:
+ "header"
+ "content"
+ "topnav"
+ "footer"
+}
+
+.topnav {
+  grid-area: topnav;
+}
+
+header {
+  grid-area: header;
+}
+
+footer {
+  grid-area: footer;
+}
+
+.main {
+  grid-area: content;
+}
+
+/* Þó að body sé tekið fram  */
+
+.main {
+  display: grid;
+  grid-gap: 0;
+  grid-template-areas:
+  "vinstri-1"
+  "vinstri-2"
+  "haegri"
+}
+
+.vinstri-1 {
+  grid-area: vinstri-1;
+}
+
+.haegri {
+  grid-area: haegri;
+}
+
+.vinstri-2 {
+  grid-area: vinstri-2;
+}
+
+/* VIÐMIÐ 37.5em = 600px */
+
+@media screen and (min-width: 37.5em) {
+  .main {
+    grid-template-columns: 30% auto 29.4%;
+    grid-template-areas:
+    "vinstri-1 vinstri-1 haegri"
+    "vinstri-2 vinstri-2 haegri";
+  }
+  body {
+    margin: 0;
+    display: grid;
+    grid-gap: 0;
+    grid-template-areas:
+   "header header header topnav"
+   "content content content content"
+   "footer footer footer footer"
+  }
+  .topmenu a {
+    text-align: left;
+  }
+}
+
+/* viðmið 60 em = 960px littlir tölvuskjáir */
+
+@media screen and (min-width: 60em) {
+  body {
+    max-width: 60em;
+    margin: 0 auto;
+    background: #ffe0a5;
+  }
+  .main {
+    grid-template-columns: 30% auto 29.4%;
+  }
+}

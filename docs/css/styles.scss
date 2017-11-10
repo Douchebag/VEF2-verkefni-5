@@ -1,3 +1,42 @@
-@import "normalize.scss";
+@import "normalize.scss", "litir.scss", "grid_system.scss";
+/* */
+
+$almenntPadding: 1em;     //Padding notad mikid
 
 /* Aðalstílsíða */
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+header {
+  background: $appelsinugulur;
+  text-align: center;
+  color: $brunn;
+}
+
+footer {
+  background: $brunn2;
+  color: white;
+  text-align: center;
+}
+
+.topnav {
+  background: $brunn2;
+}
+
+.vinstri-1, .vinstri-2 {
+  background: $hudlitur;
+}
+
+.haegri {
+  background: $hudlitur;
+}
+
+header,
+footer,
+.vinstri-1,
+.vinstri-2,
+.haegri {
+  padding: $almenntPadding;
+}

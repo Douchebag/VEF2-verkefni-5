@@ -1,0 +1,30 @@
+/* Breytur */
+$null: 0;
+$bakgrunnslitur: #1caf23;
+
+/* Efnisyfirlit í topnav */
+
+.topmenu {
+  margin: $null;
+  padding: $null;
+  list-style-type: none;
+}
+
+.topmenu li {
+  padding: 5px 0 5px 0;
+}
+
+.topmenu a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: .4em 2em;
+  text-align: center;
+}
+
+
+.topmenu a:active {
+  color: black;
+  background-color: $bakgrunnslitur;
+  transition: all .4s ease;
+}
