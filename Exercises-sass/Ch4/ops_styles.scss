@@ -2,3 +2,12 @@
  * SASS Operators example
  */
 
+ $Litur: #f00;
+ $basepadding: 10px;
+ $basethickness: 4px;
+
+.mypara {
+     color: $Litur + #00f;
+     border: ($basethickness + 10)/2 solid $Litur;
+     padding: $basepadding $basepadding+20;
+ }
