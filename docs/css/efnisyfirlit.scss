@@ -23,13 +23,24 @@ $null: 0;
   text-align: left;
 }
 
-.topmenu a:active {
-  color: $brunn2;
-  background-color: $appelsinugulur;
+.topmenu li:hover {
+  animation-name: test;
+  animation-duration: .3s;
   transition: all .4s ease;
+  background-color: $appelsinugulur;
+  a {
+    color: $brunn2;
+  }
 }
 
-.topmenu a:hover {
-  border-bottom: 1px solid white;
-  transition: ease-in .2s;
+@keyframes test {
+  0% {
+    background-color: darken($appelsinugulur, 10%);
+  }
+  50% {
+    background-color: lighten($appelsinugulur, 10%);
+  }
+  100% {
+    background-color: $appelsinugulur;
+  }
 }

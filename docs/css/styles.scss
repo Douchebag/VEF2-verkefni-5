@@ -21,6 +21,9 @@ footer {
   background: $brunn2;
   color: white;
   text-align: center;
+  p { // nesting
+    font-family: cursive;
+  }
 }
 
 .topnav {
