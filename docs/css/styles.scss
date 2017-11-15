@@ -1,7 +1,9 @@
-@import "normalize.scss", "litir.scss", "grid_system.scss";
+@import "normalize.scss", "grid_system.scss", "efnisyfirlit.scss";
 /* */
 
-$almenntPadding: 1em;     //Padding notad mikid
+@mixin almenntPadding {
+  padding: 1em;
+}
 
 /* Aðalstílsíða */
 
@@ -38,5 +40,5 @@ footer,
 .vinstri-1,
 .vinstri-2,
 .haegri {
-  padding: $almenntPadding;
+  @include almenntPadding;
 }

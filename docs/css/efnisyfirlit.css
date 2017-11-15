@@ -1,4 +1,5 @@
 @charset "UTF-8";
+/* Litir */
 /* Breytur */
 /* Efnisyfirlit ├¡ topnav */
 .topmenu {
@@ -7,18 +8,22 @@
   list-style-type: none; }
 
 .topmenu li {
-  padding: 5px 0 5px 0; }
+  padding: 2.5px 0 2.5px 0; }
 
 .topmenu a {
   display: block;
   color: white;
   text-decoration: none;
   padding: .4em 2em;
-  text-align: center; }
+  text-align: left; }
 
 .topmenu a:active {
-  color: black;
-  background-color: #1caf23;
+  color: #7d663f;
+  background-color: #ffbf0f;
   transition: all .4s ease; }
+
+.topmenu a:hover {
+  border-bottom: 1px solid white;
+  transition: .5s ease-in; }
 
 /*# sourceMappingURL=efnisyfirlit.css.map */

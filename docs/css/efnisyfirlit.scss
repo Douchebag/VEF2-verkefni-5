@@ -1,6 +1,7 @@
+@import "litir.scss";
 /* Breytur */
 $null: 0;
-$bakgrunnslitur: #1caf23;
+
 
 /* Efnisyfirlit í topnav */
 
@@ -11,7 +12,7 @@ $bakgrunnslitur: #1caf23;
 }
 
 .topmenu li {
-  padding: 5px 0 5px 0;
+  padding: 2.5px 0 2.5px 0;
 }
 
 .topmenu a {
@@ -19,12 +20,16 @@ $bakgrunnslitur: #1caf23;
   color: white;
   text-decoration: none;
   padding: .4em 2em;
-  text-align: center;
+  text-align: left;
 }
 
-
 .topmenu a:active {
-  color: black;
-  background-color: $bakgrunnslitur;
+  color: $brunn2;
+  background-color: $appelsinugulur;
   transition: all .4s ease;
+}
+
+.topmenu a:hover {
+  border-bottom: 1px solid white;
+  transition: .5s ease-in;
 }
