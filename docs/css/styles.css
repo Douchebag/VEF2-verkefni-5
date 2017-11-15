@@ -474,7 +474,7 @@ footer {
 
 .topmenu a:hover {
   border-bottom: 1px solid white;
-  transition: .5s ease-in; }
+  transition: ease-in .2s; }
 
 /* */
 /* A├░alst├¡ls├¡├░a */
